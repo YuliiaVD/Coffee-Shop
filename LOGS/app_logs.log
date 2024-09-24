@@ -1,0 +1,15 @@
+2024-09-24 21:03:18.434 [main] WARN  o.e.a.coffee.order.CoffeeOrderBoard - Attempt to deliver from an empty queue.
+2024-09-24 21:03:45.972 [main] WARN  o.e.a.coffee.order.CoffeeOrderBoard - Attempt to deliver from an empty queue.
+2024-09-24 21:03:45.973 [main] ERROR o.e.a.coffee.order.CoffeeOrderBoard - Order with number 1 not found. 
+2024-09-24 21:03:45.974 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - Added new order 1 | Yuliia 
+2024-09-24 21:03:45.976 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - Added new order 2 | Evgene 
+2024-09-24 21:03:45.976 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - Added new order 3 | Serhii 
+2024-09-24 21:03:45.976 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - Added new order 4 | Serhii 
+2024-09-24 21:03:45.977 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - Total amount orders in queue is/are 4 
+2024-09-24 21:03:45.977 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - Delivered order number 1 | Yuliia : 
+2024-09-24 21:03:45.977 [main] ERROR o.e.a.coffee.order.CoffeeOrderBoard - Order with number 1 not found. 
+2024-09-24 21:03:45.977 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - The order number 3 | Serhii is shipped: 
+2024-09-24 21:03:45.977 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - Added new order 5 | Helen 
+2024-09-24 21:03:45.977 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - Total amount orders in queue is/are 3 
+2024-09-24 21:03:45.977 [main] ERROR o.e.a.coffee.order.CoffeeOrderBoard - Order with number 33 not found. 
+2024-09-24 21:03:45.977 [main] INFO  o.e.a.coffee.order.CoffeeOrderBoard - Total amount orders in queue is/are 3 
